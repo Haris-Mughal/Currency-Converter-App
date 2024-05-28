@@ -1,0 +1,4 @@
+
+.wrapper.active .content {
+  display: block;
+}
